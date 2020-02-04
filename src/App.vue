@@ -7,7 +7,8 @@
       .option MUMI002
       .option MUMI003
       .option MUMI004
-    //- img(alt='Vue logo' src='./assets/logo.png')
+    .footer
+      .text Copyright©2020 Mumi
 </template>
 
 <style lang="stylus">
