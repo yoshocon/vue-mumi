@@ -14,6 +14,10 @@ const routes = [
     path: '/basic',
     component: Basic
   },
+  {
+    path: '/image',
+    component: Image
+  },
 ]
 
 const router = new VueRouter({
