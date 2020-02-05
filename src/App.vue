@@ -6,6 +6,7 @@
           img(alt='Vue logo' src='./assets/mumi.png' width="30px" heigth="30px")
       router-link(to='Basic').option 基本設定
       router-link(to='Image').option 圖片集
+      router-link(to='About').option 關於姆咪
     .wrapper
       router-view
       .footer
